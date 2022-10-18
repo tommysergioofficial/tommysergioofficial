@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tommy D. Sergio
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Webdesign
 - 💞️ I’m looking to collaborate on ... Coding/Programming
 - 📫 How to reach me ... @tommysergio45@gmail.com
